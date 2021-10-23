@@ -78,8 +78,8 @@ function draw() {
     var pos = stone.body.position;
     
    // var distance = dist(zombie.position.x, zombie.position.y, pos.x, pos.y);
-    //var distance = dist(zombie.position.x, zombie.position.y);
-    var distance = dist(pos.x, pos.y);
+    var distance = dist(zombie.position.x, zombie.position.y);
+  //  var distance = dist(pos.x, pos.y);
    // var distance = dist(zombie, pos);
 
 
