@@ -79,8 +79,8 @@ function draw() {
     
    // var distance = dist(zombie.position.x, zombie.position.y, pos.x, pos.y);
     //var distance = dist(zombie.position.x, zombie.position.y);
-    //var distance = dist(pos.x, pos.y);
-    var distance = dist(zombie, pos);
+    var distance = dist(pos.x, pos.y);
+   // var distance = dist(zombie, pos);
 
 
     /*if (distance >= 50) {
